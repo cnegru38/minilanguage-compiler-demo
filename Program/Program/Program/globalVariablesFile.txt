@@ -1,0 +1,11 @@
+< int, adunare,  >
+< int, scadere,  >
+< int, inmultire,  >
+< double, varGlobala, 5.43 >
+< int, main,  >
+< int, a, 17 >
+< int, b, 45 >
+< int, c, 3 >
+< string, sirCaract, "" >
+< int, s, 0 >
+< int, imn, 0 >

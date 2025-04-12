@@ -1,0 +1,39 @@
+Functie: adunare
+- Tip retur: int
+- Este main: False
+- Este recursiva: True
+- Parametri:
+  - int first
+  - int second
+- Variabile locale:
+- Structuri de control:
+
+Functie: scadere
+- Tip retur: int
+- Este main: False
+- Este recursiva: False
+- Parametri:
+  - int first
+  - int second
+- Variabile locale:
+- Structuri de control:
+  - if, linia 7
+
+Functie: inmultire
+- Tip retur: int
+- Este main: False
+- Este recursiva: False
+- Parametri:
+  - int first
+  - int second
+- Variabile locale:
+- Structuri de control:
+
+Functie: main
+- Tip retur: int
+- Este main: True
+- Este recursiva: False
+- Parametri:
+- Variabile locale:
+- Structuri de control:
+
